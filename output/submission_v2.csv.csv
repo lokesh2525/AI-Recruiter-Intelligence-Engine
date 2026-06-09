@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0041669,1,0.721247,Recommendation Systems Engineer with 8.0 years of experience. Recruiter response rate 77.0%. Strong alignment with ranking and recommendation systems..
+CAND_0071974,2,0.717013,Senior AI Engineer with 7.8 years of experience. Recruiter response rate 76.0%. Senior AI engineering background closely matches JD requirements..
+CAND_0077337,3,0.698694,Staff Machine Learning Engineer with 7.0 years of experience. Recruiter response rate 95.0%. Production ML experience and relevant seniority level..
+CAND_0002025,4,0.697408,Senior AI Engineer with 5.9 years of experience. Recruiter response rate 80.0%. Senior AI engineering background closely matches JD requirements..
+CAND_0011162,5,0.690833,Recommendation Systems Engineer with 5.8 years of experience. Recruiter response rate 75.0%. Strong alignment with ranking and recommendation systems..
+CAND_0077285,6,0.690027,Recommendation Systems Engineer with 5.5 years of experience. Recruiter response rate 56.0%. Strong alignment with ranking and recommendation systems..
+CAND_0026532,7,0.685943,Recommendation Systems Engineer with 4.8 years of experience. Recruiter response rate 52.0%. Strong alignment with ranking and recommendation systems.. Slightly below the preferred experience range.
+CAND_0018499,8,0.678549,Senior Machine Learning Engineer with 7.2 years of experience. Recruiter response rate 61.0%. Production ML experience and relevant seniority level..
+CAND_0042506,9,0.678519,Search Engineer with 4.2 years of experience. Recruiter response rate 48.0%. Direct search and retrieval experience relevant to the role.. Slightly below the preferred experience range.
+CAND_0081686,10,0.672871,Search Engineer with 6.0 years of experience. Recruiter response rate 91.0%. Direct search and retrieval experience relevant to the role..
+CAND_0013393,11,0.671206,ML Engineer with 5.3 years of experience. Recruiter response rate 33.0%. Relevant technical background with transferable AI skills.. Lower recruiter engagement than other top candidates.
+CAND_0061265,12,0.667784,Recommendation Systems Engineer with 6.6 years of experience. Recruiter response rate 94.0%. Strong alignment with ranking and recommendation systems..
+CAND_0052682,13,0.666159,NLP Engineer with 6.6 years of experience. Recruiter response rate 88.0%. NLP expertise supports retrieval and LLM-oriented workloads..
+CAND_0083307,14,0.660887,Search Engineer with 7.8 years of experience. Recruiter response rate 70.0%. Direct search and retrieval experience relevant to the role..
+CAND_0046064,15,0.653512,Senior NLP Engineer with 8.9 years of experience. Recruiter response rate 78.0%. NLP expertise supports retrieval and LLM-oriented workloads..
+CAND_0061819,16,0.650896,Junior ML Engineer with 5.0 years of experience. Recruiter response rate 79.0%. Relevant technical background with transferable AI skills..
+CAND_0041568,17,0.648794,Search Engineer with 5.2 years of experience. Recruiter response rate 52.0%. Direct search and retrieval experience relevant to the role..
+CAND_0011687,18,0.647823,Senior NLP Engineer with 7.8 years of experience. Recruiter response rate 89.0%. NLP expertise supports retrieval and LLM-oriented workloads..
+CAND_0008425,19,0.640375,Senior NLP Engineer with 7.8 years of experience. Recruiter response rate 66.0%. NLP expertise supports retrieval and LLM-oriented workloads..
+CAND_0014440,20,0.640053,Recommendation Systems Engineer with 6.4 years of experience. Recruiter response rate 64.0%. Strong alignment with ranking and recommendation systems..
+CAND_0006557,21,0.639167,NLP Engineer with 7.9 years of experience. Recruiter response rate 63.0%. NLP expertise supports retrieval and LLM-oriented workloads..
+CAND_0017960,22,0.638344,Recommendation Systems Engineer with 7.7 years of experience. Recruiter response rate 72.0%. Strong alignment with ranking and recommendation systems..
+CAND_0040887,23,0.637649,Machine Learning Engineer with 4.7 years of experience. Recruiter response rate 84.0%. Production ML experience and relevant seniority level.. Slightly below the preferred experience range.
+CAND_0040117,24,0.637469,Recommendation Systems Engineer with 6.5 years of experience. Recruiter response rate 66.0%. Strong alignment with ranking and recommendation systems..
+CAND_0064326,25,0.636019,Search Engineer with 7.6 years of experience. Recruiter response rate 94.0%. Direct search and retrieval experience relevant to the role..
+CAND_0030953,26,0.633633,Search Engineer with 7.8 years of experience. Recruiter response rate 63.0%. Direct search and retrieval experience relevant to the role..
+CAND_0074225,27,0.633321,Machine Learning Engineer with 4.3 years of experience. Recruiter response rate 91.0%. Production ML experience and relevant seniority level.. Slightly below the preferred experience range.
+CAND_0066999,28,0.63208,Recommendation Systems Engineer with 5.9 years of experience. Recruiter response rate 63.0%. Strong alignment with ranking and recommendation systems..
+CAND_0068811,29,0.63128,Applied ML Engineer with 8.0 years of experience. Recruiter response rate 42.0%. Relevant technical background with transferable AI skills.. Lower recruiter engagement than other top candidates.
+CAND_0033861,30,0.628006,Senior NLP Engineer with 8.0 years of experience. Recruiter response rate 16.0%. NLP expertise supports retrieval and LLM-oriented workloads.. Lower recruiter engagement than other top candidates.
+CAND_0086151,31,0.626763,Recommendation Systems Engineer with 7.7 years of experience. Recruiter response rate 52.0%. Strong alignment with ranking and recommendation systems..
+CAND_0002120,32,0.625769,ML Engineer with 6.5 years of experience. Recruiter response rate 72.0%. Relevant technical background with transferable AI skills..
+CAND_0088025,33,0.623452,Staff Machine Learning Engineer with 8.6 years of experience. Recruiter response rate 83.0%. Production ML experience and relevant seniority level..
+CAND_0075249,34,0.621536,Applied ML Engineer with 6.2 years of experience. Recruiter response rate 82.0%. Relevant technical background with transferable AI skills..
+CAND_0018549,35,0.620835,Recommendation Systems Engineer with 6.8 years of experience. Recruiter response rate 73.0%. Strong alignment with ranking and recommendation systems..
+CAND_0010541,36,0.619424,AI Research Engineer with 6.2 years of experience. Recruiter response rate 59.0%. Direct search and retrieval experience relevant to the role..
+CAND_0053591,37,0.616034,AI Engineer with 5.3 years of experience. Recruiter response rate 81.0%. Senior AI engineering background closely matches JD requirements..
+CAND_0073007,38,0.614668,AI Specialist with 5.8 years of experience. Recruiter response rate 83.0%. Relevant technical background with transferable AI skills..
+CAND_0009691,39,0.613622,Applied ML Engineer with 6.2 years of experience. Recruiter response rate 64.0%. Relevant technical background with transferable AI skills..
+CAND_0050876,40,0.61309,Applied ML Engineer with 6.0 years of experience. Recruiter response rate 67.0%. Relevant technical background with transferable AI skills..
+CAND_0044855,41,0.612215,Senior Data Scientist with 6.6 years of experience. Recruiter response rate 57.0%. Relevant technical background with transferable AI skills..
+CAND_0012957,42,0.61213,Search Engineer with 4.9 years of experience. Recruiter response rate 67.0%. Direct search and retrieval experience relevant to the role.. Slightly below the preferred experience range.
+CAND_0090155,43,0.611954,ML Engineer with 5.8 years of experience. Recruiter response rate 64.0%. Relevant technical background with transferable AI skills..
+CAND_0060072,44,0.61178,Staff Machine Learning Engineer with 5.7 years of experience. Recruiter response rate 10.0%. Production ML experience and relevant seniority level.. Lower recruiter engagement than other top candidates.
+CAND_0010257,45,0.611368,Senior Data Scientist with 6.5 years of experience. Recruiter response rate 72.0%. Relevant technical background with transferable AI skills..
+CAND_0047521,46,0.611133,Junior ML Engineer with 4.4 years of experience. Recruiter response rate 83.0%. Relevant technical background with transferable AI skills.. Slightly below the preferred experience range.
+CAND_0081846,47,0.609913,Lead AI Engineer with 6.7 years of experience. Recruiter response rate 73.0%. Senior AI engineering background closely matches JD requirements..
+CAND_0000031,48,0.608362,Recommendation Systems Engineer with 6.0 years of experience. Recruiter response rate 91.0%. Strong alignment with ranking and recommendation systems..
+CAND_0091909,49,0.607875,Machine Learning Engineer with 6.9 years of experience. Recruiter response rate 65.0%. Production ML experience and relevant seniority level..
+CAND_0080766,50,0.606449,Staff Machine Learning Engineer with 8.8 years of experience. Recruiter response rate 66.0%. Production ML experience and relevant seniority level..
+CAND_0081053,51,0.606188,NLP Engineer with 5.4 years of experience. Recruiter response rate 83.0%. NLP expertise supports retrieval and LLM-oriented workloads..
+CAND_0073620,52,0.605848,AI Research Engineer with 4.4 years of experience. Recruiter response rate 63.0%. Direct search and retrieval experience relevant to the role.. Slightly below the preferred experience range.
+CAND_0079387,53,0.603469,AI Engineer with 6.9 years of experience. Recruiter response rate 81.0%. Senior AI engineering background closely matches JD requirements..
+CAND_0028793,54,0.60329,Search Engineer with 7.2 years of experience. Recruiter response rate 57.0%. Direct search and retrieval experience relevant to the role..
+CAND_0089552,55,0.602459,Machine Learning Engineer with 6.0 years of experience. Recruiter response rate 49.0%. Production ML experience and relevant seniority level.. Lower recruiter engagement than other top candidates.
+CAND_0009024,56,0.60225,Search Engineer with 5.2 years of experience. Recruiter response rate 46.0%. Direct search and retrieval experience relevant to the role.. Lower recruiter engagement than other top candidates.
+CAND_0061175,57,0.60217,AI Research Engineer with 6.7 years of experience. Recruiter response rate 48.0%. Direct search and retrieval experience relevant to the role.. Lower recruiter engagement than other top candidates.
+CAND_0096142,58,0.60123,Applied ML Engineer with 5.0 years of experience. Recruiter response rate 84.0%. Relevant technical background with transferable AI skills..
+CAND_0055905,59,0.601083,Senior Machine Learning Engineer with 8.1 years of experience. Recruiter response rate 87.0%. Production ML experience and relevant seniority level..
+CAND_0048166,60,0.600681,ML Engineer with 5.2 years of experience. Recruiter response rate 48.0%. Relevant technical background with transferable AI skills.. Lower recruiter engagement than other top candidates.
+CAND_0065195,61,0.600421,Search Engineer with 5.1 years of experience. Recruiter response rate 80.0%. Direct search and retrieval experience relevant to the role..
+CAND_0094056,62,0.59797,NLP Engineer with 5.9 years of experience. Recruiter response rate 82.0%. NLP expertise supports retrieval and LLM-oriented workloads..
+CAND_0032089,63,0.597839,ML Engineer with 6.6 years of experience. Recruiter response rate 54.0%. Relevant technical background with transferable AI skills..
+CAND_0053695,64,0.59745,Recommendation Systems Engineer with 5.8 years of experience. Recruiter response rate 60.0%. Strong alignment with ranking and recommendation systems..
+CAND_0031593,65,0.597214,Search Engineer with 7.8 years of experience. Recruiter response rate 58.0%. Direct search and retrieval experience relevant to the role..
+CAND_0093883,66,0.59644,AI Research Engineer with 5.0 years of experience. Recruiter response rate 56.0%. Direct search and retrieval experience relevant to the role..
+CAND_0039838,67,0.596408,Recommendation Systems Engineer with 4.9 years of experience. Recruiter response rate 80.0%. Strong alignment with ranking and recommendation systems.. Slightly below the preferred experience range.
+CAND_0006567,68,0.596037,Senior AI Engineer with 7.9 years of experience. Recruiter response rate 79.0%. Senior AI engineering background closely matches JD requirements..
+CAND_0005538,69,0.595692,Senior AI Engineer with 5.9 years of experience. Recruiter response rate 81.0%. Senior AI engineering background closely matches JD requirements..
+CAND_0001610,70,0.595131,Machine Learning Engineer with 3.0 years of experience. Recruiter response rate 57.0%. Production ML experience and relevant seniority level.. Slightly below the preferred experience range.
+CAND_0036184,71,0.595008,Recommendation Systems Engineer with 6.0 years of experience. Recruiter response rate 90.0%. Strong alignment with ranking and recommendation systems..
+CAND_0052328,72,0.594789,Recommendation Systems Engineer with 6.5 years of experience. Recruiter response rate 79.0%. Strong alignment with ranking and recommendation systems..
+CAND_0046525,73,0.592463,Senior Machine Learning Engineer with 6.1 years of experience. Recruiter response rate 88.0%. Production ML experience and relevant seniority level..
+CAND_0099401,74,0.591553,NLP Engineer with 7.7 years of experience. Recruiter response rate 42.0%. NLP expertise supports retrieval and LLM-oriented workloads.. Lower recruiter engagement than other top candidates.
+CAND_0007412,75,0.591454,Applied ML Engineer with 7.4 years of experience. Recruiter response rate 76.0%. Relevant technical background with transferable AI skills..
+CAND_0027691,76,0.591041,NLP Engineer with 6.5 years of experience. Recruiter response rate 68.0%. NLP expertise supports retrieval and LLM-oriented workloads..
+CAND_0020877,77,0.589219,Applied ML Engineer with 5.1 years of experience. Recruiter response rate 66.0%. Relevant technical background with transferable AI skills..
+CAND_0013536,78,0.587338,Applied ML Engineer with 14.1 years of experience. Recruiter response rate 87.0%. Relevant technical background with transferable AI skills..
+CAND_0069905,79,0.586209,Applied ML Engineer with 6.6 years of experience. Recruiter response rate 78.0%. Relevant technical background with transferable AI skills..
+CAND_0016163,80,0.58614,Applied ML Engineer with 6.7 years of experience. Recruiter response rate 72.0%. Relevant technical background with transferable AI skills..
+CAND_0015582,81,0.585179,ML Engineer with 4.4 years of experience. Recruiter response rate 82.0%. Relevant technical background with transferable AI skills.. Slightly below the preferred experience range.
+CAND_0007009,82,0.584749,Recommendation Systems Engineer with 7.9 years of experience. Recruiter response rate 62.0%. Strong alignment with ranking and recommendation systems..
+CAND_0087364,83,0.58462,Recommendation Systems Engineer with 4.9 years of experience. Recruiter response rate 48.0%. Strong alignment with ranking and recommendation systems.. Slightly below the preferred experience range.
+CAND_0054123,84,0.583593,Applied ML Engineer with 4.7 years of experience. Recruiter response rate 87.0%. Relevant technical background with transferable AI skills.. Slightly below the preferred experience range.
+CAND_0055992,85,0.583407,AI Engineer with 16.9 years of experience. Recruiter response rate 72.0%. Senior AI engineering background closely matches JD requirements..
+CAND_0054394,86,0.580628,Recommendation Systems Engineer with 4.1 years of experience. Recruiter response rate 64.0%. Strong alignment with ranking and recommendation systems.. Slightly below the preferred experience range.
+CAND_0030348,87,0.580406,Machine Learning Engineer with 4.5 years of experience. Recruiter response rate 54.0%. Production ML experience and relevant seniority level.. Slightly below the preferred experience range.
+CAND_0069771,88,0.580315,Junior ML Engineer with 5.7 years of experience. Recruiter response rate 36.0%. Relevant technical background with transferable AI skills.. Lower recruiter engagement than other top candidates.
+CAND_0096172,89,0.580256,NLP Engineer with 5.2 years of experience. Recruiter response rate 47.0%. NLP expertise supports retrieval and LLM-oriented workloads.. Lower recruiter engagement than other top candidates.
+CAND_0041610,90,0.579815,Recommendation Systems Engineer with 6.7 years of experience. Recruiter response rate 52.0%. Strong alignment with ranking and recommendation systems..
+CAND_0047721,91,0.577765,Senior Data Scientist with 7.0 years of experience. Recruiter response rate 49.0%. Relevant technical background with transferable AI skills.. Lower recruiter engagement than other top candidates.
+CAND_0086022,92,0.576401,Senior Applied Scientist with 5.3 years of experience. Recruiter response rate 55.0%. Relevant technical background with transferable AI skills..
+CAND_0006418,93,0.576323,Machine Learning Engineer with 5.7 years of experience. Recruiter response rate 92.0%. Production ML experience and relevant seniority level..
+CAND_0016659,94,0.574969,ML Engineer with 4.4 years of experience. Recruiter response rate 89.0%. Relevant technical background with transferable AI skills.. Slightly below the preferred experience range.
+CAND_0091890,95,0.574193,AI Research Engineer with 4.7 years of experience. Recruiter response rate 49.0%. Direct search and retrieval experience relevant to the role.. Slightly below the preferred experience range.
+CAND_0004402,96,0.574081,AI Research Engineer with 6.0 years of experience. Recruiter response rate 83.0%. Direct search and retrieval experience relevant to the role..
+CAND_0011643,97,0.5739,AI Research Engineer with 4.2 years of experience. Recruiter response rate 85.0%. Direct search and retrieval experience relevant to the role.. Slightly below the preferred experience range.
+CAND_0048469,98,0.573617,Computer Vision Engineer with 4.7 years of experience. Recruiter response rate 59.0%. Relevant technical background with transferable AI skills.. Slightly below the preferred experience range.
+CAND_0015065,99,0.572831,AI Research Engineer with 3.9 years of experience. Recruiter response rate 84.0%. Direct search and retrieval experience relevant to the role.. Slightly below the preferred experience range.
+CAND_0070398,100,0.572774,Machine Learning Engineer with 7.2 years of experience. Recruiter response rate 60.0%. Production ML experience and relevant seniority level..
