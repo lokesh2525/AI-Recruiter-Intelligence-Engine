@@ -1,29 +1,4 @@
-# # src/reasoning_generator.py
-
-# def generate_reasoning(candidate):
-
-#     profile = candidate.get("profile", {})
-#     signals = candidate.get("redrob_signals", {})
-
-#     title = profile.get("current_title", "Professional")
-#     exp = profile.get("years_of_experience", 0)
-
-#     response_rate = round(
-#         signals.get(
-#             "recruiter_response_rate",
-#             0
-#         ) * 100,
-#         0
-#     )
-
-#     return (
-#         f"{title} with {exp} years experience. "
-#         f"Recruiter response rate "
-#         f"{response_rate}% and strong profile fit."
-#     )
-
-# src/reasoning_generator.py
-
+#src/reasoning_generator.py
 def generate_reasoning(candidate):
 
     profile = candidate.get("profile", {})
