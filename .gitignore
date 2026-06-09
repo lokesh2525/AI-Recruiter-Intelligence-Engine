@@ -4,3 +4,4 @@ venv/
 .env
 .ipynb_checkpoints/
 .streamlit/secrets.toml
+data/raw/candidates.jsonl
