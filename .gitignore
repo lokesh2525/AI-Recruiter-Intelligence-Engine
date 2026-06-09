@@ -1,0 +1,11 @@
+**pycache**/
+*.pyc
+venv/
+.env
+.ipynb_checkpoints/
+
+data/raw/candidates.jsonl
+
+output/
+
+.streamlit/secrets.toml
